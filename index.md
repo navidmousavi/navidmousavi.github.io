@@ -1,6 +1,6 @@
-<head>
+<header>
 # Navid Mousavi
-</head>
-<body>
+</header>
+<main>
 ## Welcome to my page!
-</body>
+</main>
