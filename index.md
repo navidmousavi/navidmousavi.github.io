@@ -1,5 +1,10 @@
-# Navid Mousavi
-
-
-## Welcome to my page!
-
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>
